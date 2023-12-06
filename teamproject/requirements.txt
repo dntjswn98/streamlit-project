@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+datetime
+plotly
+matplotlib
+seaborn
+streamlit
+datetime
+# math
+
+folium
+# json
+streamlit-folium 
