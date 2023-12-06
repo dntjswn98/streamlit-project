@@ -23,6 +23,8 @@ import json
 from streamlit_folium import st_folium
 from streamlit_folium import folium_static
 
+# 코드 시작
+
 st.header('서울시 공연장 관련 통계 분석 및 시각화', divider='rainbow')
 
 # 기본 csv파일
